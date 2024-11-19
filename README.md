@@ -15,3 +15,4 @@ This program demonstrates fundamental concepts of autonomous navigation, such as
 </p>
 <h3>the output looks like :-</h3>
 <img src = "outputimg.png">
+<img src = "outputvid1.mp4">
